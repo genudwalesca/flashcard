@@ -1,18 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-body{
-    background-color: rgb(111, 109, 199);
+
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+}
+
+body {
+    background: url('img/bg-desktop.webp');
     font-family: Playfair;
 }
 
-footer{
+footer {
     background-color: black;
     color: white;
     bottom: 0;
     position: fixed;
-    width:100%;
+    width: 100%;
 }
 
-footer p{ 
+footer p {
     text-align: center;
     font-size: 0.6rem;
     height: 2rem;
@@ -20,7 +27,7 @@ footer p{
 }
 
 #container {
-    display:flex ;
+    display: flex;
 }
 
 .cartao {
