@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'Qual é a cor preferida da Waleska',
-    'O Python é uma linguagem de programação'
+    'Qual é a cor preferida da Waleska?',
+    'Vermelho, Azul e preto, mas a que ela mais ama e a cor do pôr do sol.'
 )
 
 criaCartao(
