@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'Hello Kitty',
     'Qual é a cor preferida da Waleska?',
     'Vermelho, Azul e preto, mas a que ela mais ama e a cor do pôr do sol.'
 )
