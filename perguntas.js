@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Keroppi',
+    'Qual a melhor amiga da Waleska?',
+    'A NUNU mais conhecida como Emanuelly :)'
 )
 
 criaCartao(
