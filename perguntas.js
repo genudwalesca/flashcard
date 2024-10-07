@@ -1,7 +1,7 @@
 criaCartao(
-    'Hello Kitty',
-    'Qual é a cor preferida da Waleska?',
-    'Vermelho, Azul e preto, mas a que ela mais ama e a cor do pôr do sol.'
+    'Matemática',
+    'Qual é a resposta da equação (8x-15=3x)',
+    '3'
 )
 
 criaCartao(
