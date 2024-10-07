@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Keroppi',
-    'Qual a melhor amiga da Waleska?',
-    'A NUNU mais conhecida como Emanuelly :)'
+    'História',
+    'Quando foi a descoberta do Brasil?',
+    '22 de abril de 1500'
 )
 
 criaCartao(
