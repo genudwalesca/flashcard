@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 :root {
-    --text-color: #000000;
-    --card-front-color: #c471dd;
-    --card-back-color: #ce2b1f;
+    --text-color: #1961b4;
+    --card-front-color: #4787d1;
+    --card-back-color: #174e8d;
 }
 
 body {
