@@ -8,6 +8,7 @@
 
 body {
     background: url('img/wawa.jpeg');
+    background-repeat: no-repeat;
     font-family: Bai Jamjuree;
 }
 
